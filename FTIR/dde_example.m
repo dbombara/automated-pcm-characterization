@@ -6,6 +6,7 @@ chan = ddeinit('excel', 'Sheet1');
 h = surf(peaks(20));
 % Get the z data of the surface
 z = get(h, 'zdata');
+% C:\my documents\omnic\Spectra\Hyun Jung Kim\PCM-Filter.CSV'C:\my documents\omnic\Spectra\Hyun Jung Kim\PCM-Filter.CSV
 
 % Set range of cells in Excel for poking.
 range = 'r1c1:r20c20';
