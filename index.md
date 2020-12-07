@@ -15,12 +15,6 @@
 
 2. Download the uCube library.
 
-3. Open OpenSCAD, create a new file and include the uCube library by typing
-
-```javascript
-include <uCube.scad>
-```
-
 4. You can create a uCube model by typing
 
 ```javascript
@@ -42,7 +36,6 @@ The first line creates a new instance of a `Lens` class with a given parameters.
 
 ### Assembly
 
-Please check out the [DocuBricks](http://www.docubricks.com/projects/ucube) portal for the assembly instructions.
 
 ### Library of parts
 
@@ -50,11 +43,5 @@ Please check out the part collection [here](https://github.com/mdelmans/uCube/wi
 
 ### Example projects at Hackster.io
 
-[uCameraCube](https://www.hackster.io/delmans/ucameracube)
-
-[uLightCube](https://www.hackster.io/delmans/ulightcube)
-
 ### Publication
 Delmans, M. & Haseloff, J., (2018). *μCube: A Framework for 3D Printable Optomechanics*. Journal of Open Hardware. 2(1), p.2. DOI: [http://doi.org/10.5334/joh.8](http://doi.org/10.5334/joh.8)
-
-{% include viewer.html %}
