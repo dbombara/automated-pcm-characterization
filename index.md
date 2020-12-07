@@ -3,7 +3,7 @@
 
 ## Welcome
 
-The developed MATLAB application can be utilized to automatically tune and characterize phase-changing optical filters. The tuning is enabled by a pulsed laser, function generator, and oscilloscope that are automatically controlled through MATLAB. A bandpass linear variable filter (LVF) and infrared (IR) camera enable the characterization.The linear variable filter (LVF) enables compact, low-cost, and in situ measurement of the tunable filter's center wavelength. The IR camera additionally enables measurement of the tunable filter's transmittance intensity.
+The developed MATLAB application can be utilized to automatically tune and characterize phase-changing optical filters. The tuning is enabled by a pulsed laser, function generator, and oscilloscope that are automatically controlled through MATLAB. A bandpass ***linear variable filter*** (LVF) and ***infrared (IR) camera*** enable the characterization.The linear variable filter (LVF) enables ***compact, low-cost, and in situ measurement*** of the tunable filter's bandpass ***center wavelength***. The IR camera additionally enables measurement of the tunable filter's ***transmittance intensity***.
 
 <div id = "viewerContainer">
 </div>
