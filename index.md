@@ -4,7 +4,6 @@
 ## Welcome
 
 
-## GUI Overview
 
 <div id = "viewerContainer">
 </div>
@@ -33,5 +32,7 @@ Oscilloscope and Function Generator
 Linear Variable Filter
 
 FLIR SC8000 Series IR camera
+
+## GUI Overview
 
 ### Publication
