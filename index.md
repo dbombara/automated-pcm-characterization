@@ -2,46 +2,28 @@
 ---
 
 ## Welcome
-µCube is a framework for optomechanics design, which is compatible with 3D printing. It is also an assembly standard for designing, building and sharing optical modules. µCube is implemented using OpenSCAD, a programming language for CAD modelling. This allows every component to be described as a parametric model, which can be easily shared in a form of a code.
 
-## µCube model
+
+## GUI Overview
 
 <div id = "viewerContainer">
 </div>
 
 ## Getting started
 
-1. Download and install OpenSCAD. You can get the latest version from the official [website](http://www.openscad.org).
+1. Download and install MATLAB.
 
-2. Download the uCube library.
+2. Install the following toolboxes: Control Systems Toolbox, Image Processing Toolbox, Instrument Control Toolbox.
 
-4. You can create a uCube model by typing
 
-```javascript
-uCube();
-```
-5. Hit Render(F6) button. After the rendering is finished, you should see a uCube model ready for export.
-
-6. Press Export as STL button, and send the file for 3D printing.
-
-7. Erase the `uCube();` command and type the following instead:
-
-```javascript
-myLens = Lens(f = 25, r = 12.5, minH = 2, maxH = 5);
-myAperture = Aperture( shape="circle", size = [10, 10] );
-uLensFaceI( lens = myLens, aperture = myAperture, supportH = 5 );
-```
-
-The first line creates a new instance of a `Lens` class with a given parameters. The second line creates an instance of a circular `Aperture` with a 10 mm radius. The third line creates a uFace, with the given aperture, and support for the myLense, positioned 5 mm above the uFace.
-
-### Assembly
+### Hardware
+Oscilloscope and Function Generator
+Linear Variable Filter
+FLIR SC8000 Series IR camera
 
 
 ### Library of parts
 
-Please check out the part collection [here](https://github.com/mdelmans/uCube/wiki).
-
-### Example projects at Hackster.io
+Please check out the part collection [here](https://github.com/dbombara/reliability_test/wiki).
 
 ### Publication
-Delmans, M. & Haseloff, J., (2018). *μCube: A Framework for 3D Printable Optomechanics*. Journal of Open Hardware. 2(1), p.2. DOI: [http://doi.org/10.5334/joh.8](http://doi.org/10.5334/joh.8)
