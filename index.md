@@ -23,9 +23,4 @@ Linear Variable Filter
 
 FLIR SC8000 Series IR camera
 
-
-### Library of parts
-
-Please check out the part collection [here](https://github.com/dbombara/reliability_test/wiki).
-
 ### Publication
