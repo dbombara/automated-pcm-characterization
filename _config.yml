@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 show_downloads: true
 title: Automated Tunability Evaluation using Linear Variable Filter
-logo: /img/p-active-logo
+logo: p-active-logo.jpeg
 description: A MATLAB GUI for automated phase-changing and measurement.
 github:
   zip_url: https://github.com/dbombara/reliability_test
