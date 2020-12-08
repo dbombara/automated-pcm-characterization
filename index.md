@@ -31,7 +31,13 @@ Oscilloscope and Function Generator
 
 Linear Variable Filter
 
-FLIR SC8000 Series IR camera
+Infrared Camera:
+
+* For mid-wave infrared (MWIR): FLIR SC8000 Series
+
+* For short-wave infrared (SWIR): FLIR A6261
+
+* Low-cost option: Rapsberry Pi Model B + Raspberry Pi NoIR Camera
 
 ## GUI Overview
 
