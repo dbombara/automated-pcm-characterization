@@ -37,7 +37,7 @@ Infrared Camera:
 
 * For short-wave infrared (SWIR): FLIR A6261
 
-* Low-cost option: Rapsberry Pi Model B + Raspberry Pi NoIR Camera
+* Low-cost option: Raspberry Pi Model B + Raspberry Pi NoIR Camera
 
 ## GUI Overview
 ![Alt](/images/gui_overview.png "Title")
