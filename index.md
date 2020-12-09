@@ -40,6 +40,6 @@ Infrared Camera:
 * Low-cost option: Raspberry Pi Model B + Raspberry Pi NoIR Camera
 
 ## GUI Overview
-![](images/gui_overview.png)
+![](images/gui_overview.PNG)
 
 ### Publication
