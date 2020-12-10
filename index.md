@@ -44,6 +44,6 @@ Infrared Camera:
 
 ### Publication
 
-### Support and Helful Links
+### Support and Helpful Links
 
 [Forum for Tektronix hardware](https://forum.tek.com/index.php)
