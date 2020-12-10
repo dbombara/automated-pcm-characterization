@@ -43,3 +43,7 @@ Infrared Camera:
 ![](images/gui_overview.PNG)
 
 ### Publication
+
+### Support and Helful Links
+
+[Forum for Tektronix hardware](https://forum.tek.com/index.php)
