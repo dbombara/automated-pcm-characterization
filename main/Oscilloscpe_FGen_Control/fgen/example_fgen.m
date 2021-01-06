@@ -1,5 +1,5 @@
-clear; close all; clc;
-
+clear all; close all; clc;
+%--------------------------------------------------------------------------
 try
     myFGen = fgen();
 catch
@@ -7,7 +7,7 @@ catch
     clear myFgen;
     myFGen = fgen();
 end
-
+%--------------------------------------------------------------------------
 % Find resources. 
 availableResources = resources(myFGen);
 
@@ -42,5 +42,4 @@ disableOutput(myFGen);
 
 % Close the session and remove it from the workspace
 disconnect(myFGen);
-clear myFgen;
-
+clear myFgen
