@@ -35,4 +35,3 @@ FLIR SC8000 Series IR camera
 
 ## GUI Overview
 ![](images/gui_overview.PNG)
-### Publication
