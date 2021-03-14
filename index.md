@@ -31,12 +31,6 @@ Oscilloscope and Function Generator
 
 Linear Variable Filter
 
-### Hardware
-
-Oscilloscope and Function Generator
-
-Linear Variable Filter
-
 FLIR SC8000 Series IR camera
 
 ## GUI Overview
