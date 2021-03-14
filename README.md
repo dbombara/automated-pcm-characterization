@@ -34,4 +34,4 @@ Linear Variable Filter
 FLIR SC8000 Series IR camera
 
 ## GUI Overview
-![](images/gui_overview.PNG)
+![](images/gui_screenshot.PNG)
